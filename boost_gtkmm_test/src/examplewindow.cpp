@@ -14,6 +14,8 @@ ExampleWindow::ExampleWindow()
 {
   set_title("Tesing boost multiprecision");
   set_border_width(10);
+  set_default_size(1000, 800);
+  set_position(Gtk::WIN_POS_CENTER);
 
   add(m_VBox);
 

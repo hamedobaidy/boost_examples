@@ -87,8 +87,10 @@ int main ()
     rational<int> big(maxint, 2);
     assert(2 * big == maxint);
 
+    double three_time_one_third = boost::rational_cast<double>(one_third * 3);
+
     // Print some of the above results
-    cout << one_third << " * " << 3 << " = " << one << endl;
+    cout << one_third << " * " << 3 << " = " << three_time_one_third << endl;
     cout << half << "+" << half << "=" << one << endl;
     cout << one << "-" << half << "=" << half << endl;
     cout << two << "*" << half << "=" << one << endl;

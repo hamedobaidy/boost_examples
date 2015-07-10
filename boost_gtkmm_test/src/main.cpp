@@ -17,8 +17,6 @@ int main(int argc, char *argv[])
 
   ExampleWindow window;
 
-  window.resize(1000,800);
-
   //Shows the window and returns when it is closed.
   return app->run(window);
 }
