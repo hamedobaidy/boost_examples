@@ -5,6 +5,7 @@
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
+#include <iostream>
 
 #include <boost/multiprecision/float128.hpp>
 #include <boost/math/special_functions/gamma.hpp>
