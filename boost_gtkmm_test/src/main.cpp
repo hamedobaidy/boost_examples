@@ -16,6 +16,7 @@ int main(int argc, char *argv[])
   Glib::RefPtr<Gtk::Application> app = Gtk::Application::create(argc, argv, "org.gtkmm.example");
 
   ExampleWindow window;
+
   window.resize(1000,800);
 
   //Shows the window and returns when it is closed.
