@@ -3,7 +3,7 @@
 // Author      : Hamed Mohammadi
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : Boost C++ libraries - GMP int example
 //============================================================================
 
 #include <iostream>

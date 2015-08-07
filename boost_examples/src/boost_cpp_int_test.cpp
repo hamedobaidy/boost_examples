@@ -4,7 +4,7 @@
  Author      : Hamed Mohammadi
  Version     :
  Copyright   : Your copyright notice
- Description : Hello World in C++,
+ Description : Boost C++ libraries - multiprecision int example
  ============================================================================
  */
 
